@@ -1,0 +1,19 @@
+.btn{
+	padding:.5rem .5rem;
+	
+}
+@media screen and (max-width: 1680px) {
+
+			#main > .inner {
+				padding: 0 .1em 0.1em .5em ;
+			}
+
+				#main > .inner > section {
+					padding: 1em 0 3em 0 ;
+				}
+
+		}
+		
+#header .logo {
+    margin-left: 35px;
+}

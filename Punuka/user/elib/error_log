@@ -1,0 +1,1 @@
+[16-Nov-2018 15:41:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/prunedge/public_html/clients/punuka/user/elib/overdue_books.php on line 102

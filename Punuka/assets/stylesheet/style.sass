@@ -1,0 +1,126 @@
+*
+  -webkit-font-smoothing: antialiased
+
+body
+  display: flex
+  justify-content: center
+  align-items: center
+  background: url("../images/lib4.jpg") no-repeat center
+  width: 100%
+  height: 100vh
+  background-size: cover
+
+#main
+  background: #ffffff
+  padding: 2rem 4rem
+  min-width: 40rem
+  border-radius: .3rem
+  .imageWrapper
+    padding: 1rem 0 3rem 0
+    img
+      width: 11rem
+
+  .field
+    padding: 0 0 2rem 0
+    input
+      display: block
+      width: 100%
+      padding: 1rem 2rem 1rem 4rem
+      border-radius: .3rem
+      border: .1rem solid #d1d1d1
+      outline: 0
+
+
+    input[type=email]::before
+      content: "<<"
+      font-family: FontAwesome
+      font-style: normal
+      font-weight: normal
+      text-decoration: inherit
+      /*--adjust as necessary--*/
+      color: #000
+      font-size: 2rem
+      padding-right: 0.5em
+      position: absolute
+      top: 10px
+      left: 0
+
+    .btnBg
+      background-color: #2aabd2
+      width: 100%
+      border: none
+      color: white
+      padding: 1rem 4rem
+      border-radius: .3rem
+      &:hover
+        background-color: #1e708b
+
+    a
+      color: #2aabd2
+      text-decoration: none
+      outline: 0
+      &:hover
+        color: #000000
+
+    ul
+      display: flex
+      justify-content: space-around
+      padding-left: 0
+      list-style: none
+      margin: 0 auto
+      max-width: 15rem
+      li a .fa
+        color: #000000
+        font-size: 1.6rem
+      li .fa-facebook
+        color: #000000
+        &:hover
+          color: #3B5998
+      li .fa-twitter
+        &:hover
+          color: #2aabd2
+      li .fa-linkedin
+        &:hover
+          color: #0077B5
+  p
+    padding: 0
+    margin: 0
+
+.fade.in
+  background-color: rgba(15, 15, 15, 0.8)
+.modal
+  .modal-dialog
+    position: relative
+    top: 25%
+    .modal-content
+      max-width: 40rem
+      margin: 0 auto
+      .modBody
+        padding: 3rem
+        display: block
+        flex-direction: column
+        justify-content: center
+        align-items: center
+        .fa
+          font-size: 3rem
+        p
+          padding: 2rem 0 3rem
+          text-align: center
+        input
+          display: block
+          width: 100%
+          padding: .9rem 3rem
+          margin-bottom: 2rem
+          clear: both
+        .btnBg
+          background-color: #2aabd2
+          width: 100%
+          color: #ffffff
+          border: none
+          border-radius: .3rem
+          padding: 1.3rem 0
+          margin-bottom: 2rem
+        span
+          padding: 4rem
+          color: rgba(255, 100, 104, 0.8)
+

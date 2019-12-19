@@ -1,0 +1,100 @@
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 12
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 124
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 146
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 147
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 148
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 149
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 150
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 151
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 197
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 20:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 12
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 124
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 146
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 147
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 148
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 149
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 150
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 151
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 197
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:22:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 11
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 159
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 268
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:23:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 12
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 124
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 146
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 147
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 148
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 149
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 150
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 151
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 197
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:23:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 11
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 159
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 268
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:23:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 12
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 124
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 146
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 147
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 148
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 149
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 150
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 151
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/index.php on line 197
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:26:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 4
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prunedge/public_html/clients/punuka/admin/elib/db_conn.php on line 6
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 11
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 159
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/edit_user.php on line 268
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 4
+[15-Nov-2018 23:26:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/prunedge/public_html/clients/punuka/admin/elib/menu2.php on line 10
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 4
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 6
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 12
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 124
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 146
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 147
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 148
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 149
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 150
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 151
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/index.php on line 197
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 4
+[20-Nov-2019 16:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 10
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 4
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 6
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 12
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 22
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 184
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 4
+[20-Nov-2019 16:18:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 10
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 4
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'prunedge_admin'@'localhost' (using password: YES) in /home2/punukaco/public_html/library/admin/elib/db_conn.php on line 6
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 12
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 22
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/search.php on line 184
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 4
+[20-Nov-2019 16:19:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/punukaco/public_html/library/admin/elib/menu2.php on line 10
